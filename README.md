@@ -131,9 +131,3 @@ If you’re reviewing Clarion as part of a product or leadership conversation, I
 - or applications in real organizational contexts  
 
 ---
-
-### Optional Enhancements
-
-- Screenshots in a `/screenshots` directory  
-- A simple architecture diagram (PNG or SVG)
-
