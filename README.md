@@ -45,7 +45,9 @@ The goal is **understanding and sense-making**, not prediction or enforcement.
 
 Clarion is intentionally designed around clarity and iteration rather than optimization or scale.
 
-High-level system architecture (conceptual) /screenshots/clarion-architecture.png
+![Clarion Architecture](screenshots/clarion-architecture.png)
+
+*High-level conceptual architecture illustrating signal extraction, temporal analysis, and human-in-the-loop interpretation.*
 
 1. **Data Ingestion**  
    Structured and unstructured message data are parsed into analyzable formats.
