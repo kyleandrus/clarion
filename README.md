@@ -45,6 +45,7 @@ The goal is **understanding and sense-making**, not prediction or enforcement.
 
 Clarion is intentionally designed around clarity and iteration rather than optimization or scale.
 
+![Clarion PRD Executive Summary](clarion-execsum.md)
 ![Clarion Architecture](screenshots/clarion-architecture.png)
 
 *High-level conceptual architecture illustrating signal extraction, temporal analysis, and human-in-the-loop interpretation.*
@@ -67,6 +68,8 @@ Clarion is intentionally designed around clarity and iteration rather than optim
 ---
 
 ## What I Built (MVP)
+
+Clarion PRD: ![Clarion Product Requirements Document](clarion-prd.md)
 
 As a proof of concept, Clarion includes:
 
