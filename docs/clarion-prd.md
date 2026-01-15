@@ -1,6 +1,6 @@
 # Clarion PRD (v0) — AI-Assisted Relationship Analysis & Sentiment Timeline Engine
 
-**Document Owner:** (Your Name)  
+**Document Owner:** (Richard Andrus)  
 **Last Updated:** 2026-01-15  
 **Status:** Draft / v0  
 **Audience:** Portfolio Reviewers, Hiring Managers, Engineers, Designers
