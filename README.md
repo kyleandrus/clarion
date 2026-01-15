@@ -95,6 +95,38 @@ This project is intended to demonstrate:
 
 ---
 
+## UI Walkthrough
+
+### Screen A — Project Dashboard
+Purpose: Manage and select analysis projects  
+![Project Dashboard](docs/mockups/project-dashboard-screen.png)
+
+---
+
+### Screen B — Import Wizard
+Purpose: Import and validate message data  
+![Import Wizard](docs/mockups/import-wizard-screen.png)
+
+---
+
+### Screen C — Timeline View (Main)
+Purpose: Explore sentiment and events over time  
+![Sentimenet Timeline View (MAIN)](docs/mockups/main-timeline-screen.png)
+
+---
+
+### Screen D — Annotation Drill-Down Panel / Modal
+Purpose: View message context around an event  
+![Context Review and Annotation](docs/mockups/context-viewer-notes-screen.png)
+
+---
+
+### Screen E — Exports / Reports
+Purpose: Generate shareable artifacts  
+![Export and Report page](docs/mockups/export-report-screen.png)
+
+---
+
 ## Product & Ethical Considerations
 
 Key considerations explored during development include:
